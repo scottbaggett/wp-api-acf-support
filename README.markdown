@@ -5,3 +5,6 @@ Right now Advanced Custom Fields are not supported for get requests out of the b
 ACF get_fields() data is merged into the meta response through a json filter.
 
 Put this plugin in your wordpress plugins folder. 
+
+WP JSON Rest API: https://github.com/WP-API/WP-API
+Advanced Custom Fields: http://www.advancedcustomfields.com
