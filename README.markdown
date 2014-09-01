@@ -4,4 +4,4 @@
 
 ###ACF get_fields() data is merged into the meta response through a json filter.
 
-#####Put this plugin in your wordpress plugins folder.
+Put this plugin in your wordpress plugins folder. 
